@@ -123,7 +123,9 @@ buttons.forEach((btn) => {
 
 // Exercice 8
 // Insérez votre code ici
-document.getElementById("output")
+document.getElementById("output").innerHTML = "<p>js</p><img src='' alt=''/>"
+
+
 
 
 // Exercice 9
