@@ -123,7 +123,7 @@ buttons.forEach((btn) => {
 
 // Exercice 8
 // Insérez votre code ici
-document.getElementById("output").innerHTML = "<p>js</p><img src='' alt=''/>"
+document.getElementById("output").innerHTML = "<p>js</p><img src='`https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png`' alt=''/>"
 
 
 
