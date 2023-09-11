@@ -130,7 +130,7 @@ document.getElementById("output").innerHTML = `<p>Coucou Toi Comment ça va?</p>
 
 // Exercice 9
 // Insérez votre code ici
-let animals [panda,chat,girafe];
+
 
 
 // Exercice 10
