@@ -123,13 +123,15 @@ buttons.forEach((btn) => {
 
 // Exercice 8
 // Insérez votre code ici
-document.getElementById("output").innerHTML = "<p>js</p><img src='`https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png`' alt=''/>"
+document.getElementById("output").innerHTML = `<p>Coucou Toi Comment ça va?</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>`;
 
 
 
 
 // Exercice 9
 // Insérez votre code ici
+let animals [panda,chat,girafe];
+
 
 // Exercice 10
 // Ne touchez pas au tableau
